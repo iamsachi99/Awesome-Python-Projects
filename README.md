@@ -9,6 +9,7 @@ A curated collection of Python projects, ranging from beginner to advanced level
 - [Simple Calculator](Projects/Beginner/SimpleCalculator/README.md)
 - [To-Do List](Projects/Beginner/ToDoList/README.md)
 - [Number Guessing Game](Projects/Beginner/NumberGuessingGame/README.md)
+- [Text-Based Adventure Game](Projects/Beginner/TextBasedAdventureGame/README.md)
 
 ### Intermediate
 - Coming soon...
